@@ -1,6 +1,6 @@
-  Hello! My name is Matt Dietrich, I'm a very amateur programmer, and for now, I will be using Github to show my progress as I learn to code through Python.
+  Hello! My name is Matt Dietrich, and I'm an amateur programmer who is working toward an Associate's Degree in Programming.
   
-  My goal is to cumulatively build a portfolio here and use that to start a career in coding.
+  I'll be using GitHub to begin my portfolio and accumulate projects.
   
   -Matt Dietrich
   github.com/dietrichmr
